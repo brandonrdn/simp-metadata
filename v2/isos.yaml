@@ -1,0 +1,98 @@
+---
+isos:
+  CentOS-7-x86_64-DVD-1804.iso:
+    size: '4470079488'
+    checksum: '506e4e06abf778c3435b4e5745df13e79ebfc86565d7ea1e128067ef6b5a6345'
+    platform: 'CentOS-7.5-x86_64'
+    primary: true
+  CentOS-7-x86_64-DVD-1708.iso:
+    size: '4521459712'
+    checksum: 'ec7500d4b006702af6af023b1f8f1b890b6c7ee54400bb98cef968b883cd6546'
+    platform: 'CentOS-7.4-x86_64'
+    primary: true
+  CentOS-7-x86_64-DVD-1611.iso:
+    size: '4379901952'
+    checksum: 'c455ee948e872ad2194bdddd39045b83634e8613249182b88f549bb2319d97eb'
+    platform: 'CentOS-7.3-x86_64'
+    primary: true
+  CentOS-7-x86_64-DVD-1511.iso:
+    size: '4329570304'
+    checksum: '907e5755f824c5848b9c8efbb484f3cd945e93faa024bad6ba875226f9683b16'
+    platform: 'CentOS-7.2-x86_64'
+    primary: true
+  CentOS-6.10-x86_64-bin-DVD1.iso:
+    size: '3991928832'
+    checksum: 'a68e46970678d4d297d46086ae2efdd3e994322d6d862ff51dcce25a0759e41c'
+    platform: 'CentOS-6.10-x86_64'
+    primary: true
+  CentOS-6.10-x86_64-bin-DVD2.iso:
+    size: '2187548672'
+    checksum: '723ca530171faf29728b8fe7bb6d05ca2ceb6ba9e09d73ed89f2c0ff693e77a5'
+    platform: 'CentOS-6.10-x86_64'
+  CentOS-6.9-x86_64-bin-DVD1.iso:
+    size: '3972005888'
+    checksum: 'd27cf37a40509c17ad70f37bc743f038c1feba00476fe6b69682aa424c399ea6'
+    platform: 'CentOS-6.9-x86_64'
+    primary: true
+  CentOS-6.9-x86_64-bin-DVD2.iso:
+    size: '2177677312'
+    checksum: '631b8640460f46a8139a6a7cbbac5f3594d08c32945449b6bbd65234929ce7a4'
+    platform: 'CentOS-6.9-x86_64'
+  CentOS-6.8-x86_64-bin-DVD1.iso:
+    size: '3916431360'
+    checksum: '1dda55622614a8b43b448a72f87d6cb7f79de1eff49ee8c5881a7d9db28d4e35'
+    platform: 'CentOS-6.8-x86_64'
+    primary: true
+  CentOS-6.8-x86_64-bin-DVD2.iso:
+    size: '2220693504'
+    checksum: '0aba869427b4ce04e100d72744daf7fea1f7be2e4be56b658095bd9e99e04e6d'
+    platform: 'CentOS-6.8-x86_64'
+  CentOS-6.7-x86_64-bin-DVD1.iso:
+    size: '3895459840'
+    checksum: 'c0c1a05d3d74fb093c6232003da4b22b0680f59d3b2fa2cb7da736bc40b3f2c5'
+    platform: 'CentOS-6.7-x86_64'
+    primary: true
+  CentOS-6.7-x86_64-bin-DVD2.iso:
+    size: '2154524672'
+    checksum: 'f973ac2453af9815d2db944f3c7383bb3061b6b0c12fb58dadf843e1cad67ab6'
+    platform: 'CentOS-6.7-x86_64'
+  rhel-server-7.5-x86_64-dvd.iso:
+    size: '4617928704'
+    checksum: 'd0dd6ae5e001fb050dafefdfd871e7e648b147fb2d35f0e106e0b34a0163e8f5'
+    platform: 'RedHat-7.5-x86_64'
+    primary: true
+  rhel-server-7.4-x86_64-dvd.iso:
+    size: '4059037696'
+    checksum: '431a58c8c0351803a608ffa56948c5a7861876f78ccbe784724dd8c987ff7000'
+    platform: 'RedHat-7.4-x86_64'
+    primary: true
+  rhel-server-7.3-x86_64-dvd.iso:
+    size: '3793747968'
+    checksum: '120acbca7b3d55465eb9f8ef53ad7365f2997d42d4f83d7cc285bf5c71e1131f'
+    platform: 'RedHat-7.3-x86_64'
+    primary: true
+  rhel-server-7.2-x86_64-dvd.iso:
+    size: '4043309056'
+    checksum: '03f3a0291634335f6995534d829bd21ffaa0d000004dfeb1b2fb81052d64a4d5'
+    platform: 'RedHat-7.2-x86_64'
+    primary: true
+  rhel-server-6.10-x86_64-dvd.iso:
+    size: '3895459840'
+    checksum: '1e15f9202d2cdd4b2bdf9d6503a8543347f0cb8cc06ba9a0dfd2df4fdef5c727'
+    platform: 'RedHat-6.10-x86_64'
+    primary: true
+  rhel-server-6.9-x86_64-dvd.iso:
+    size: '3887071232'
+    checksum: '3f961576e9f81ea118566f73f98d7bdf3287671c35436a13787c1ffd5078cf8e'
+    platform: 'RedHat-6.9-x86_64'
+    primary: true
+  rhel-server-6.8-x86_64-dvd.iso:
+    size: '3878682624'
+    checksum: 'd35fd1af20f6adef9b11b46c2534ae8b6e18de7754889e2b51808b436dff2804'
+    platform: 'RedHat-6.8-x86_64'
+    primary: true
+  rhel-server-6.7-x86_64-dvd.iso:
+    size: '3841982464'
+    checksum: '0e0acb2a544f4d58f10292144161f40439734c6e98b13ba8c595372b20354bc5'
+    platform: 'RedHat-6.7-x86_64'
+    primary: true

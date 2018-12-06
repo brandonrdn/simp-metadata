@@ -1,0 +1,176 @@
+---
+packages:
+  apr-util-ldap:
+    type: package
+  chkrootkit:
+    type: package
+  clamav:
+    type: package
+  clamav-data:
+    type: package
+  clamav-devel:
+    type: package
+  clamav-filesystem:
+    type: package
+  clamav-lib:
+    type: package
+  clamav-scanner-systemd:
+    type: package
+  clamav-server-systemd:
+    type: package
+  clamav-update:
+    type: package
+  clamd:
+    type: package
+  elasticsearch:
+    type: package
+  elasticsearch-curator:
+    type: package
+  grafana:
+    type: package
+  gweb:
+    type: package
+  haveged:
+    type: package
+  incron:
+    type: package
+  libarchive-devel:
+    type: package
+  libconfuse:
+    type: package
+  libev:
+    type: package
+  logstash:
+    type: package
+  pdsh:
+    type: package
+  pdsh-debuginfo:
+    type: package
+  pdsh-mod-dshgroup:
+    type: package
+  pdsh-mod-machines:
+    type: package
+  pdsh-mod-netgroup:
+    type: package
+  pdsh-rcmd-exec:
+    type: package
+  pdsh-rcmd-ssh:
+    type: package
+  postgresql96:
+    type: package
+  postgresql96-contrib:
+    type: package
+  postgresql96-libs:
+    type: package
+  postgresql96-server:
+    type: package
+  pssh:
+    type: package
+  puppet-agent:
+    type: package
+  puppet-client-tools:
+    type: package
+  puppetdb:
+    type: package
+  puppetdb-termini:
+    type: package
+  puppetlabs-release-pc1:
+    type: package
+  puppetserver:
+    type: package
+  python-linecache2:
+    type: package
+  python-redis:
+    type: package
+  python-simplejson:
+    type: package
+  python-traceback2:
+    type: package
+  python-unittest2:
+    type: package
+  ruby-augeas:
+    type: package
+  ruby-ldap:
+    type: package
+  ruby-rgen:
+    type: package
+  ruby-shadow:
+    type: package
+  rubygem-deep_merge:
+    type: package
+  rubygem-ffi:
+    type: package
+  rubygem-highline:
+    type: package
+  rubygem-net-ldap:
+    type: package
+  rubygem-net-ldap-doc:
+    type: package
+  rubygem-net-ping:
+    type: package
+  rubygem-puppet-lint:
+    type: package
+  rubygem-puppetserver-blankslate:
+    type: package
+  rubygem-puppetserver-blankslate-doc:
+    type: package
+  rubygem-puppetserver-parslet:
+    type: package
+  rubygem-puppetserver-parslet-doc:
+    type: package
+  rubygem-puppetserver-toml:
+    type: package
+  rubygem-puppetserver-toml-doc:
+    type: package
+  rubygem-rake:
+    type: package
+  rubygem-rake-compiler:
+    type: package
+  rubygem-stomp:
+    type: package
+  rubygem-stomp-doc:
+    type: package
+  simp-lastbind:
+    type: package
+  simp-ppolicy-check-password:
+    type: package
+  simp-vendored-r10k:
+    type: package
+  simp-vendored-r10k-doc:
+    type: package
+  simp-vendored-r10k-gem-colored:
+    type: package
+  simp-vendored-r10k-gem-cri:
+    type: package
+  simp-vendored-r10k-gem-faraday:
+    type: package
+  simp-vendored-r10k-gem-faraday_middleware:
+    type: package
+  simp-vendored-r10k-gem-fast_gettext:
+    type: package
+  simp-vendored-r10k-gem-gettext:
+    type: package
+  simp-vendored-r10k-gem-gettext-setup:
+    type: package
+  simp-vendored-r10k-gem-locale:
+    type: package
+  simp-vendored-r10k-gem-log4r:
+    type: package
+  simp-vendored-r10k-gem-minitar:
+    type: package
+  simp-vendored-r10k-gem-multi_json:
+    type: package
+  simp-vendored-r10k-gem-multipart-post:
+    type: package
+  simp-vendored-r10k-gem-puppet_forge:
+    type: package
+  simp-vendored-r10k-gem-r10k:
+    type: package
+  simp-vendored-r10k-gem-semantic_puppet:
+    type: package
+  simp-vendored-r10k-gem-text:
+    type: package
+  sudosh2:
+    type: package
+  syslinux-tftpboot:
+    type: package

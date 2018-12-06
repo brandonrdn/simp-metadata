@@ -1,0 +1,16 @@
+---
+releases:
+  test-diff:
+    components:
+      pupmod-simp-activemq:
+        buildinfo:
+          rpm:
+            build_method: metadata-build
+        ref: 3987ra0d5b53063f493b93a596626193b71dddd4
+        branch: develop
+        version: 1.1.2
+        tag: 1.1.2
+    platforms:
+      CentOS-7.5-x86_64:
+      CentOS-6.10-x86_64:
+      RedHat-7.5-x86_64:

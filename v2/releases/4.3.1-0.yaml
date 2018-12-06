@@ -1,0 +1,395 @@
+---
+releases:
+  4.3.1-0:
+    components:
+      simp-doc:
+        ref: 37dd99c99af38e7fb40a34d0b1b699fcadaee726
+        type: https
+        path: "/src"
+      pupmod-simp-rsync:
+        ref: 72de5f3d840b56035c729b41cdbb218136f0673c
+        type: https
+        path: "/src/puppet/modules"
+      rubygem-simp-cli:
+        ref: 865e88acb9a457362065dff80e3d73d6e4024386
+        type: https
+        path: "/src/rubygems"
+      puppet-grafana:
+        ref: bb106f5c511ea4f6c152d91c3a9be1344b168a7a
+        type: https
+        path: "/src/puppet/modules"
+      puppet-elasticsearch:
+        ref: a78bb99b3433205ada75febcf4a91b510caa9ce4
+        type: https
+        path: "/src/puppet/modules"
+      puppet-logstash:
+        ref: 61a9d3d83c184bda7e935154fcc295e40bda924a
+        type: https
+        path: "/src/puppet/modules"
+      puppet-file_concat:
+        ref: decefc4e2a36580a52818f72f0a054e0088a1b6e
+        type: https
+        path: "/src/puppet/modules"
+      augeasproviders:
+        ref: 69b80fee1e1ae13a0e120c46155cad1cfbde70b9
+        type: https
+        path: "/src/puppet/modules"
+      augeasproviders_apache:
+        ref: 57e1671c51e44400d29d977d2381d30690c5d923
+        type: https
+        path: "/src/puppet/modules"
+      augeasproviders_base:
+        ref: 9e8c99bc2298e4da3961474d3f4e07f2037ae8dd
+        type: https
+        path: "/src/puppet/modules"
+      augeasproviders_core:
+        ref: ee2147a12008f4ef20a40f0f366064b86b5a7f65
+        type: https
+        path: "/src/puppet/modules"
+      augeasproviders_grub:
+        ref: 16858eb5b4370e3242b4b153af597fa5cbe3b75d
+        type: https
+        path: "/src/puppet/modules"
+      augeasproviders_mounttab:
+        ref: 4abc6ea682e9bb8e4a5d8b781ded33e601e11003
+        type: https
+        path: "/src/puppet/modules"
+      augeasproviders_nagios:
+        ref: 3e54f665cb6b2e18c603bb3697d21c6bd6141e59
+        type: https
+        path: "/src/puppet/modules"
+      augeasproviders_pam:
+        ref: 7e58204da822597614e3440505e61a8e24af532a
+        type: https
+        path: "/src/puppet/modules"
+      augeasproviders_postgresql:
+        ref: 259c80fb874c749ec4bf6ecbb81b53ff7765689c
+        type: https
+        path: "/src/puppet/modules"
+      augeasproviders_puppet:
+        ref: 544577195bbe4b3b9e14c3b97daec2cb527b2ada
+        type: https
+        path: "/src/puppet/modules"
+      augeasproviders_shellvar:
+        ref: 983ad018810381d6cc7b523dd09813d1d5c36227
+        type: https
+        path: "/src/puppet/modules"
+      augeasproviders_ssh:
+        ref: 203f848a6373a3ca5d9f1744d7f616fbb1212bc3
+        type: https
+        path: "/src/puppet/modules"
+      augeasproviders_sysctl:
+        ref: f8d932d07acb8a3004ba83ed7a34fbafa2a19a0e
+        type: https
+        path: "/src/puppet/modules"
+      puppet-gpasswd:
+        ref: 71294cf36bd80d26cfdfd7608c18e543c0d96298
+        type: https
+        path: "/src/puppet/modules"
+      puppetlabs-inifile:
+        ref: 32b9809a198a732b1d80d5a53c9187b9f77a84b3
+        type: https
+        path: "/src/puppet/modules"
+      puppetlabs-java:
+        ref: 6efaf0babec70adb2c3422660c313870ec17f04b
+        type: https
+        path: "/src/puppet/modules"
+      puppetlabs-java_ks:
+        ref: 54728003a07b74f39964eb6c56e92cf071b6d8f1
+        type: https
+        path: "/src/puppet/modules"
+      puppetlabs-mysql:
+        ref: '078c99bdb1e26a4081b58298abf153ba25d52800'
+        type: https
+        path: "/src/puppet/modules"
+      puppetlabs-postgresql:
+        ref: 0ecc08653d9bf51fe9096a6321926f9c8cc38ab1
+        type: https
+        path: "/src/puppet/modules"
+      puppetlabs-apache:
+        ref: 70ac888d8df727267e9e159b3c18e2e1b2a0e202
+        type: https
+        path: "/src/puppet/modules"
+      puppetlabs-stdlib:
+        ref: 300ea24e7b9102c6d14424bed1fe3c4d5fc08057
+        type: https
+        path: "/src/puppet/modules"
+      puppet-datacat:
+        ref: e33d7b96ffe4121e0fd0297f51e6a8981549b6ed
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-acpid:
+        ref: 86c1e5bc2cf95babd04a37777997a00156f8dc0f
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-activemq:
+        ref: e6c3b06b661ae26dd3215fdc8d82904115c25e2c
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-aide:
+        ref: bb6307f7b4fb0e283fb89146ee0e50385666c733
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-apache:
+        ref: 6b85606df3bd1d3943c3d2c85e6d01e5deaa9ce3
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-auditd:
+        ref: 21a7b59b110f61b731eb3fe6c773ffe569d0054a
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-autofs:
+        ref: f8246519048d62928f68cc97bce5c5fa86d4b5aa
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-backuppc:
+        ref: 4654856c7713bcdb27b188c199c8dc647470ea6b
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-cgroups:
+        ref: c84b016b6a892c1122565dff0887973f383d5e52
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-clamav:
+        ref: a7dde5af88f40d25ea3de94605ae8885c0e11303
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-concat:
+        ref: 747f4e02713b32c3032d57b24f57a4c690a37e3c
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-dhcp:
+        ref: e080364fc93be0d18538844d6aca6110aea7427e
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-dirtycow:
+        ref: af1fbbb1d4cfccd5fe99961ed77f16ff76db01d8
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-foreman:
+        ref: c1ee8d60797430fbf2cc6c296523c6e34fd3a522
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-freeradius:
+        ref: a4093c8c8984f9072bbcf51c2c4fc0ac5e52048e
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-ganglia:
+        ref: b5e2606246bbae322a2a2efcee7d699833cd089f
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-gfs2:
+        ref: 1c5118710aa8f85c3909a3178efceb9faca0235b
+        type: https
+        path: "/src/puppet/modules"
+      puppet-haveged:
+        ref: 8e102613db7181fde39b54481bc17a1640abf504
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-iptables:
+        ref: d6594ff6bb3de07a222684ead202049bebe44a3e
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-jenkins:
+        ref: 400d8dddb3b41262a682f9ebfd7fb694593ce2b0
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-krb5:
+        ref: 79d504724035b9d90891083943d8bc768a59e335
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-libreswan:
+        ref: 6ed2c808b91205866b8689d876dbffb02c634eb2
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-libvirt:
+        ref: df2ae56a7ddb26fb3298129057c1ab5b9a734467
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-logrotate:
+        ref: c9beaa857ccc1ba574fe9776cfb633d0afeb47a1
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-mcafee:
+        ref: 4cfd91158d36c64ce3bcc41d6149ea7cf7cddb54
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-mcollective:
+        ref: eae813299ba133c7dd87daf34cf650747f5303a0
+        type: https
+        path: "/src/puppet/modules"
+      puppet-memcached:
+        ref: 2b4d56f0739fbcc6f01362ff846f0e7c7a8fb8b2
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-mozilla:
+        ref: 22e6f560de43536b366423c4df6da8e671cfb418
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-multipathd:
+        ref: a2f37861fd3abd1efe1e9396ee9e18f1abde7135
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-named:
+        ref: 311374cc39d79645cf6b087575b30fea6751c089
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-network:
+        ref: 07adaa8e15ce55c7fa29b76152cd0d10ecbd6103
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-nfs:
+        ref: 6055a1ee3222f2a74d854c587f678d55d0a2c7b7
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-nscd:
+        ref: c574fe6a45a7589a78da4d12291753614c955fa5
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-ntpd:
+        ref: 3ca80d08c1ad800a20ca8fb5aa29a756d51db3ec
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-oddjob:
+        ref: 1f2ccc4ba474fe68dc815f4df9bdf5547c7a2355
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-openldap:
+        ref: 89036f7e182de073cbba13834a58fa569b6589c4
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-openscap:
+        ref: 794f4a6c733faa5bbb646fe9349cb5199cdacc7e
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-pam:
+        ref: ae14c45acb3b849b5a44bd9eb7c7729afaf0330a
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-pki:
+        ref: eeda24b447b2ef3ede8347f6f891e82bc40482e7
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-polkit:
+        ref: 0f2099180fc7688afaafe7b67ce4e65da1c714ae
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-postfix:
+        ref: c8eaec5efdd53c421718e6b76b82bb9d5a4596c8
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-pupmod:
+        ref: fc907515d15beadd08bb2d979db83942fa51d11a
+        type: https
+        path: "/src/puppet/modules"
+      puppetlabs-puppetdb:
+        ref: 353e735893b6bcf1d6833e2a82dfcd6c511535d8
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-rsyslog:
+        ref: 6cac3218633a01e14d18e365b31fb0aa11363ce4
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-selinux:
+        ref: d4c4e8b07a2a65f0b1f927231d7b7a2c084474b3
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-simp:
+        ref: e3c8a7b649ae717a63035dddbda77abf5d3d5f90
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-simp_elasticsearch:
+        ref: d3f7900abe840b34049af476fa9997d9cc4e39e2
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-simp_grafana:
+        ref: be45b100650ffcabcf9213bab095f54474a157c9
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-simp_logstash:
+        ref: 977e6e144db50ec60d5dd98a10d190f6189a4582
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-simplib:
+        ref: b638d890f1c3b685a75668b046efe0c0e8190596
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-site:
+        ref: 42ac183186ac30031685ab49fa94d0abf98d5dad
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-snmpd:
+        ref: fe37cf8cdea4b9e7e5c321b4cccdcbc98cd141d2
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-ssh:
+        ref: 0342da0d9cf9fe9df5c1c9445204635148867db8
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-sssd:
+        ref: 4d912229a22cd8a2d1b751c53f12b03aace162fe
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-stunnel:
+        ref: 56246194b25e6369b9ecf59f1738c0837b238e36
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-sudo:
+        ref: 2f086f13dd9231dd9666351b3683b17e595dec52
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-sudosh:
+        ref: 0c3599ca9709b770178f32b0b57b252018fc65fe
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-svckill:
+        ref: 31b86e74cdfee1fceb46356b0e0c8cfbfbf43326
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-sysctl:
+        ref: 6be0196003fdb201d04460b3e20156a978f80fa4
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-tcpwrappers:
+        ref: 7ca8448bb0c8d36e923e2fdceb84a7a4f0aff2c9
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-tftpboot:
+        ref: 479dccf64719153ec9e6ea9924860686dc5921c4
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-tpm:
+        ref: 36a43b474f9a5f8d7b2f72469d1d19bf9e7f5baf
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-upstart:
+        ref: ce7d96ef122f7d0081509b2b8b81ab1dda541760
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-vnc:
+        ref: 0d5cbbd41c40b7b783a12fc6be9c50da1594e20b
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-vsftpd:
+        ref: 2ec702899c9e55f07b52dffd7b00304e34894608
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-windowmanager:
+        ref: ab889b380396330b6e2608b8aefbda10f3b88816
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-xinetd:
+        ref: 4b65dd0dec18f12f9f4b902a229cd7b135d1db79
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-xwindows:
+        ref: 0c5377cdcbad046653a532d867f230f3042260a3
+        type: https
+        path: "/src/puppet/modules"
+      pupmod-simp-compliance_markup:
+        ref: 3b746f000fe3c756b1d871c4d6b25583c705bfdb
+        type: https
+        path: "/src/puppet/modules"
+    platforms:
+      CentOS-6.8-x86_64:
+      RedHat-6.8-x86_64:

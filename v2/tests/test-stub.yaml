@@ -1,0 +1,13 @@
+---
+releases:
+  test-stub:
+    components:
+      pupmod-simp-activemq:
+        ref: 488f5a0d5b53063c125b93a596626193b71aaa08
+        branch: master
+        version: 1.1.1
+        tag: 1.1.1
+    platforms:
+      CentOS-7.5-x86_64:
+      CentOS-6.10-x86_64:
+      RedHat-7.5-x86_64:
