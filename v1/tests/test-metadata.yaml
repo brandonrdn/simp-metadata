@@ -1,0 +1,6 @@
+---
+releases:
+  test-metadata:
+    components:
+      simp-core:
+        version: 'testing'
