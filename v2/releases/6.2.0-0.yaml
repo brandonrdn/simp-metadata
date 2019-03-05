@@ -472,6 +472,9 @@ releases:
       CentOS-6.9-x86_64:
       RedHat-7.4-x86_64:
     puppet_versions:
-      2018-5:
-      5.1.2:
-      I_don't_know_puppet_versions:
+      Enterprise:
+        Enterprise1:
+        Enterprise2:
+      Puppet:
+        Puppet1:
+        Puppet2:
